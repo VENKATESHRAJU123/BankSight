@@ -1,0 +1,251 @@
+Ticket_ID,Customer_ID,Account_ID,Loan_ID,Branch_Name,Issue_Category,Description,Date_Opened,Date_Closed,Priority,Status,Resolution_Remarks,Support_Agent,Channel,Customer_Rating
+TKT00001,CUST00387,CUST00428,181,Chennai Main Branch,EMI Auto-debit Failed,Issue description for ticket 1,2025-09-28,2025-10-09,Critical,Closed,Resolution remarks for ticket 1,Agent 7,Phone,5
+TKT00002,CUST00132,CUST00265,,Chennai Main Branch,Card Not Working,Issue description for ticket 2,2025-05-28,2025-06-25,Medium,Closed,Resolution remarks for ticket 2,Agent 19,Phone,2
+TKT00003,CUST00153,CUST00359,130,Delhi Main Branch,Account Balance Mismatch,Issue description for ticket 3,2025-05-14,,Medium,In Progress,,Agent 2,In-person,
+TKT00004,CUST00387,CUST00423,,Mumbai Main Branch,Online Banking Issue,Issue description for ticket 4,2025-08-17,2025-08-28,High,Closed,Resolution remarks for ticket 4,Agent 6,Chat,1
+TKT00005,CUST00487,CUST00450,,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 5,2025-08-27,2025-09-05,Critical,Resolved,Resolution remarks for ticket 5,Agent 11,Chat,1
+TKT00006,CUST00254,CUST00065,185,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 6,2025-03-29,2025-04-08,Critical,Resolved,Resolution remarks for ticket 6,Agent 13,Email,5
+TKT00007,CUST00286,CUST00148,,Kolkata Main Branch,Card Not Working,Issue description for ticket 7,2025-01-16,2025-02-08,Critical,Resolved,Resolution remarks for ticket 7,Agent 8,Email,3
+TKT00008,CUST00455,CUST00344,,Kolkata Main Branch,Loan Payment Delay,Issue description for ticket 8,2025-03-22,2025-04-17,Critical,Closed,Resolution remarks for ticket 8,Agent 4,Chat,4
+TKT00009,CUST00162,CUST00407,182,Delhi Main Branch,Account Balance Mismatch,Issue description for ticket 9,2025-02-02,2025-02-07,Critical,Closed,Resolution remarks for ticket 9,Agent 17,Email,5
+TKT00010,CUST00158,CUST00307,,Chennai Main Branch,Account Balance Mismatch,Issue description for ticket 10,2024-11-27,2024-12-01,High,Closed,Resolution remarks for ticket 10,Agent 11,Chat,1
+TKT00011,CUST00234,CUST00223,10,Bangalore Main Branch,Card Not Working,Issue description for ticket 11,2025-02-23,2025-03-15,Medium,Resolved,Resolution remarks for ticket 11,Agent 16,Email,3
+TKT00012,CUST00160,CUST00263,47,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 12,2025-01-27,2025-02-08,Critical,Closed,Resolution remarks for ticket 12,Agent 8,Phone,2
+TKT00013,CUST00171,CUST00125,205,Pune Main Branch,ATM Card Blocked,Issue description for ticket 13,2025-08-09,,Low,In Progress,,Agent 13,In-person,
+TKT00014,CUST00194,CUST00008,76,Delhi Main Branch,ATM Card Blocked,Issue description for ticket 14,2025-11-09,2025-11-15,Low,Resolved,Resolution remarks for ticket 14,Agent 13,Phone,3
+TKT00015,CUST00371,CUST00106,,Pune Main Branch,ATM Card Blocked,Issue description for ticket 15,2025-07-03,2025-07-31,Critical,Closed,Resolution remarks for ticket 15,Agent 5,In-person,2
+TKT00016,CUST00414,CUST00351,110,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 16,2025-03-13,,Critical,In Progress,,Agent 1,Phone,
+TKT00017,CUST00423,CUST00250,,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 17,2025-01-06,2025-02-01,High,Closed,Resolution remarks for ticket 17,Agent 17,Email,2
+TKT00018,CUST00149,CUST00124,,Kolkata Main Branch,EMI Auto-debit Failed,Issue description for ticket 18,2025-07-14,2025-08-12,High,Closed,Resolution remarks for ticket 18,Agent 1,Phone,1
+TKT00019,CUST00203,CUST00465,56,Pune Main Branch,Loan Payment Delay,Issue description for ticket 19,2025-02-23,,Medium,Open,,Agent 9,Email,
+TKT00020,CUST00463,CUST00258,84,Delhi Main Branch,Online Banking Issue,Issue description for ticket 20,2025-05-01,,High,Open,,Agent 17,Email,
+TKT00021,CUST00471,CUST00343,,Delhi Main Branch,EMI Auto-debit Failed,Issue description for ticket 21,2025-04-30,2025-05-15,Critical,Closed,Resolution remarks for ticket 21,Agent 18,In-person,1
+TKT00022,CUST00200,CUST00136,,Pune Main Branch,Account Balance Mismatch,Issue description for ticket 22,2025-09-25,2025-10-15,Medium,Closed,Resolution remarks for ticket 22,Agent 4,In-person,4
+TKT00023,CUST00206,CUST00254,247,Mumbai Main Branch,Loan Payment Delay,Issue description for ticket 23,2025-08-29,2025-09-19,Critical,Resolved,Resolution remarks for ticket 23,Agent 2,Email,2
+TKT00024,CUST00496,CUST00401,,Ahmedabad Main Branch,ATM Card Blocked,Issue description for ticket 24,2025-11-09,2025-11-19,Medium,Resolved,Resolution remarks for ticket 24,Agent 10,Phone,3
+TKT00025,CUST00242,CUST00218,,Bangalore Main Branch,Account Balance Mismatch,Issue description for ticket 25,2024-12-21,,Medium,Open,,Agent 17,In-person,
+TKT00026,CUST00039,CUST00030,,Pune Main Branch,Account Balance Mismatch,Issue description for ticket 26,2025-05-12,2025-05-15,Medium,Closed,Resolution remarks for ticket 26,Agent 11,Phone,1
+TKT00027,CUST00420,CUST00309,,Bangalore Main Branch,ATM Card Blocked,Issue description for ticket 27,2025-10-16,,High,In Progress,,Agent 20,Chat,
+TKT00028,CUST00443,CUST00024,,Hyderabad Main Branch,Card Not Working,Issue description for ticket 28,2024-12-17,2025-01-09,Low,Closed,Resolution remarks for ticket 28,Agent 20,Chat,2
+TKT00029,CUST00486,CUST00490,,Delhi Main Branch,Card Not Working,Issue description for ticket 29,2025-01-04,,Low,Open,,Agent 7,Email,
+TKT00030,CUST00288,CUST00099,,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 30,2025-04-21,2025-05-11,Low,Resolved,Resolution remarks for ticket 30,Agent 4,In-person,4
+TKT00031,CUST00458,CUST00008,2,Pune Main Branch,Loan Payment Delay,Issue description for ticket 31,2025-06-02,2025-06-16,Critical,Resolved,Resolution remarks for ticket 31,Agent 10,Phone,1
+TKT00032,CUST00282,CUST00487,232,Kolkata Main Branch,Account Balance Mismatch,Issue description for ticket 32,2024-12-06,,High,In Progress,,Agent 5,Email,
+TKT00033,CUST00297,CUST00443,,Delhi Main Branch,Loan Payment Delay,Issue description for ticket 33,2025-08-26,,Critical,In Progress,,Agent 3,Chat,
+TKT00034,CUST00408,CUST00062,92,Mumbai Main Branch,Loan Payment Delay,Issue description for ticket 34,2025-03-27,,Medium,In Progress,,Agent 17,Chat,
+TKT00035,CUST00270,CUST00233,198,Delhi Main Branch,ATM Card Blocked,Issue description for ticket 35,2025-01-16,2025-01-18,Medium,Closed,Resolution remarks for ticket 35,Agent 3,In-person,1
+TKT00036,CUST00367,CUST00305,202,Ahmedabad Main Branch,EMI Auto-debit Failed,Issue description for ticket 36,2025-07-23,2025-08-19,Critical,Resolved,Resolution remarks for ticket 36,Agent 4,Phone,4
+TKT00037,CUST00288,CUST00395,44,Chennai Main Branch,Loan Payment Delay,Issue description for ticket 37,2025-08-11,,Low,In Progress,,Agent 20,Chat,
+TKT00038,CUST00068,CUST00473,,Bangalore Main Branch,EMI Auto-debit Failed,Issue description for ticket 38,2025-05-24,2025-05-26,Critical,Resolved,Resolution remarks for ticket 38,Agent 13,Email,4
+TKT00039,CUST00088,CUST00221,78,Bangalore Main Branch,Loan Payment Delay,Issue description for ticket 39,2025-06-02,,Low,Open,,Agent 13,In-person,
+TKT00040,CUST00057,CUST00381,292,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 40,2025-06-09,2025-06-17,High,Closed,Resolution remarks for ticket 40,Agent 20,In-person,5
+TKT00041,CUST00133,CUST00128,,Hyderabad Main Branch,EMI Auto-debit Failed,Issue description for ticket 41,2025-05-11,,Medium,Open,,Agent 19,Chat,
+TKT00042,CUST00456,CUST00422,,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 42,2025-06-04,2025-06-08,High,Closed,Resolution remarks for ticket 42,Agent 9,Email,4
+TKT00043,CUST00382,CUST00328,101,Kolkata Main Branch,Account Balance Mismatch,Issue description for ticket 43,2025-08-24,2025-09-03,Critical,Resolved,Resolution remarks for ticket 43,Agent 13,Email,3
+TKT00044,CUST00412,CUST00322,297,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 44,2024-12-10,2024-12-23,High,Closed,Resolution remarks for ticket 44,Agent 16,Email,1
+TKT00045,CUST00232,CUST00334,202,Pune Main Branch,Online Banking Issue,Issue description for ticket 45,2024-12-02,2025-01-01,Medium,Closed,Resolution remarks for ticket 45,Agent 12,Email,2
+TKT00046,CUST00047,CUST00058,,Chennai Main Branch,Loan Payment Delay,Issue description for ticket 46,2025-02-20,,High,Open,,Agent 18,In-person,
+TKT00047,CUST00243,CUST00452,185,Ahmedabad Main Branch,EMI Auto-debit Failed,Issue description for ticket 47,2024-12-31,2025-01-05,Critical,Resolved,Resolution remarks for ticket 47,Agent 9,In-person,5
+TKT00048,CUST00040,CUST00368,255,Chennai Main Branch,EMI Auto-debit Failed,Issue description for ticket 48,2025-05-20,,High,In Progress,,Agent 4,Chat,
+TKT00049,CUST00491,CUST00438,52,Kolkata Main Branch,Loan Payment Delay,Issue description for ticket 49,2025-04-22,2025-04-23,Medium,Resolved,Resolution remarks for ticket 49,Agent 19,In-person,5
+TKT00050,CUST00318,CUST00474,141,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 50,2025-04-19,,Critical,Open,,Agent 17,In-person,
+TKT00051,CUST00066,CUST00218,251,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 51,2025-10-09,,Low,Open,,Agent 12,Chat,
+TKT00052,CUST00180,CUST00269,,Ahmedabad Main Branch,Account Balance Mismatch,Issue description for ticket 52,2025-07-12,,High,Open,,Agent 3,Chat,
+TKT00053,CUST00001,CUST00245,100,Ahmedabad Main Branch,EMI Auto-debit Failed,Issue description for ticket 53,2025-08-23,2025-09-18,Medium,Closed,Resolution remarks for ticket 53,Agent 6,Email,5
+TKT00054,CUST00097,CUST00120,113,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 54,2025-01-23,2025-02-19,Critical,Closed,Resolution remarks for ticket 54,Agent 9,In-person,3
+TKT00055,CUST00098,CUST00179,,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 55,2025-01-18,2025-02-13,Critical,Resolved,Resolution remarks for ticket 55,Agent 1,Chat,1
+TKT00056,CUST00182,CUST00231,,Pune Main Branch,ATM Card Blocked,Issue description for ticket 56,2025-07-24,,Low,Open,,Agent 5,Chat,
+TKT00057,CUST00104,CUST00276,,Pune Main Branch,Card Not Working,Issue description for ticket 57,2025-01-22,2025-02-13,Critical,Closed,Resolution remarks for ticket 57,Agent 20,Phone,5
+TKT00058,CUST00077,CUST00464,157,Kolkata Main Branch,Card Not Working,Issue description for ticket 58,2025-09-24,,Low,Open,,Agent 10,In-person,
+TKT00059,CUST00178,CUST00231,,Hyderabad Main Branch,ATM Card Blocked,Issue description for ticket 59,2025-07-11,,Low,In Progress,,Agent 16,Email,
+TKT00060,CUST00496,CUST00392,268,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 60,2025-01-02,2025-01-17,Low,Resolved,Resolution remarks for ticket 60,Agent 18,In-person,2
+TKT00061,CUST00340,CUST00364,44,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 61,2025-06-28,,High,Open,,Agent 9,Email,
+TKT00062,CUST00221,CUST00405,156,Pune Main Branch,Loan Payment Delay,Issue description for ticket 62,2025-07-03,2025-07-09,High,Resolved,Resolution remarks for ticket 62,Agent 2,Phone,3
+TKT00063,CUST00075,CUST00411,83,Ahmedabad Main Branch,ATM Card Blocked,Issue description for ticket 63,2025-04-08,2025-05-04,Low,Resolved,Resolution remarks for ticket 63,Agent 6,Email,5
+TKT00064,CUST00015,CUST00095,,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 64,2024-11-23,2024-12-13,Medium,Closed,Resolution remarks for ticket 64,Agent 20,In-person,1
+TKT00065,CUST00163,CUST00453,4,Ahmedabad Main Branch,Online Banking Issue,Issue description for ticket 65,2025-08-14,2025-09-07,High,Resolved,Resolution remarks for ticket 65,Agent 8,Phone,3
+TKT00066,CUST00103,CUST00339,111,Ahmedabad Main Branch,ATM Card Blocked,Issue description for ticket 66,2024-12-09,2024-12-30,High,Resolved,Resolution remarks for ticket 66,Agent 10,Phone,2
+TKT00067,CUST00312,CUST00472,286,Hyderabad Main Branch,Online Banking Issue,Issue description for ticket 67,2025-03-26,,Critical,Open,,Agent 8,Email,
+TKT00068,CUST00149,CUST00251,276,Ahmedabad Main Branch,Online Banking Issue,Issue description for ticket 68,2025-06-05,2025-06-22,High,Closed,Resolution remarks for ticket 68,Agent 13,In-person,4
+TKT00069,CUST00408,CUST00361,25,Hyderabad Main Branch,ATM Card Blocked,Issue description for ticket 69,2025-08-21,2025-09-15,Medium,Resolved,Resolution remarks for ticket 69,Agent 4,In-person,1
+TKT00070,CUST00249,CUST00332,37,Bangalore Main Branch,Loan Payment Delay,Issue description for ticket 70,2025-10-25,2025-11-07,Medium,Closed,Resolution remarks for ticket 70,Agent 14,Email,1
+TKT00071,CUST00486,CUST00161,180,Pune Main Branch,ATM Card Blocked,Issue description for ticket 71,2025-02-13,,Medium,Open,,Agent 19,Email,
+TKT00072,CUST00379,CUST00021,156,Kolkata Main Branch,ATM Card Blocked,Issue description for ticket 72,2025-01-18,,Critical,Open,,Agent 4,Phone,
+TKT00073,CUST00004,CUST00087,,Kolkata Main Branch,ATM Card Blocked,Issue description for ticket 73,2025-01-10,,Low,Open,,Agent 15,Phone,
+TKT00074,CUST00058,CUST00119,,Mumbai Main Branch,Card Not Working,Issue description for ticket 74,2025-03-08,2025-04-02,Critical,Closed,Resolution remarks for ticket 74,Agent 9,Phone,5
+TKT00075,CUST00409,CUST00256,9,Kolkata Main Branch,EMI Auto-debit Failed,Issue description for ticket 75,2025-07-02,2025-07-05,Low,Closed,Resolution remarks for ticket 75,Agent 7,In-person,1
+TKT00076,CUST00045,CUST00479,,Bangalore Main Branch,ATM Card Blocked,Issue description for ticket 76,2024-11-16,,High,Open,,Agent 3,Phone,
+TKT00077,CUST00382,CUST00066,,Pune Main Branch,Loan Payment Delay,Issue description for ticket 77,2025-06-25,,High,In Progress,,Agent 4,Chat,
+TKT00078,CUST00314,CUST00189,251,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 78,2024-12-07,2025-01-02,Low,Resolved,Resolution remarks for ticket 78,Agent 6,Email,5
+TKT00079,CUST00088,CUST00156,,Bangalore Main Branch,Loan Payment Delay,Issue description for ticket 79,2025-01-11,2025-02-04,Medium,Closed,Resolution remarks for ticket 79,Agent 6,Chat,5
+TKT00080,CUST00253,CUST00091,235,Hyderabad Main Branch,Online Banking Issue,Issue description for ticket 80,2025-01-22,2025-01-31,High,Closed,Resolution remarks for ticket 80,Agent 3,Chat,4
+TKT00081,CUST00447,CUST00203,,Chennai Main Branch,Account Balance Mismatch,Issue description for ticket 81,2025-03-28,2025-04-13,Critical,Resolved,Resolution remarks for ticket 81,Agent 19,Email,3
+TKT00082,CUST00421,CUST00197,182,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 82,2025-01-27,2025-01-30,Low,Closed,Resolution remarks for ticket 82,Agent 6,In-person,4
+TKT00083,CUST00129,CUST00434,35,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 83,2025-04-22,2025-04-28,Critical,Closed,Resolution remarks for ticket 83,Agent 13,Phone,3
+TKT00084,CUST00281,CUST00204,59,Mumbai Main Branch,Online Banking Issue,Issue description for ticket 84,2025-07-20,2025-08-02,High,Closed,Resolution remarks for ticket 84,Agent 13,In-person,4
+TKT00085,CUST00384,CUST00298,59,Pune Main Branch,EMI Auto-debit Failed,Issue description for ticket 85,2024-12-28,,Low,Open,,Agent 4,Email,
+TKT00086,CUST00449,CUST00461,,Chennai Main Branch,Account Balance Mismatch,Issue description for ticket 86,2025-07-22,,Medium,In Progress,,Agent 17,Chat,
+TKT00087,CUST00217,CUST00485,,Chennai Main Branch,Online Banking Issue,Issue description for ticket 87,2025-09-01,2025-09-07,Low,Closed,Resolution remarks for ticket 87,Agent 15,In-person,5
+TKT00088,CUST00111,CUST00373,282,Pune Main Branch,Loan Payment Delay,Issue description for ticket 88,2025-07-21,,High,In Progress,,Agent 3,Phone,
+TKT00089,CUST00065,CUST00311,,Pune Main Branch,Loan Payment Delay,Issue description for ticket 89,2025-06-02,,Medium,In Progress,,Agent 17,Email,
+TKT00090,CUST00361,CUST00313,,Delhi Main Branch,Account Balance Mismatch,Issue description for ticket 90,2025-08-08,2025-08-15,High,Resolved,Resolution remarks for ticket 90,Agent 10,Phone,1
+TKT00091,CUST00451,CUST00256,,Delhi Main Branch,ATM Card Blocked,Issue description for ticket 91,2025-08-29,2025-09-08,High,Resolved,Resolution remarks for ticket 91,Agent 15,In-person,1
+TKT00092,CUST00451,CUST00410,,Bangalore Main Branch,Card Not Working,Issue description for ticket 92,2025-04-23,2025-04-27,Low,Resolved,Resolution remarks for ticket 92,Agent 5,Email,2
+TKT00093,CUST00347,CUST00135,,Delhi Main Branch,EMI Auto-debit Failed,Issue description for ticket 93,2025-06-07,,Critical,In Progress,,Agent 9,In-person,
+TKT00094,CUST00497,CUST00352,,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 94,2025-04-25,,Medium,Open,,Agent 11,Chat,
+TKT00095,CUST00348,CUST00030,147,Chennai Main Branch,Online Banking Issue,Issue description for ticket 95,2025-09-02,2025-09-18,Critical,Closed,Resolution remarks for ticket 95,Agent 11,Email,2
+TKT00096,CUST00028,CUST00424,,Chennai Main Branch,EMI Auto-debit Failed,Issue description for ticket 96,2025-07-29,,High,Open,,Agent 9,Email,
+TKT00097,CUST00075,CUST00391,108,Pune Main Branch,Account Balance Mismatch,Issue description for ticket 97,2025-02-11,2025-03-03,Low,Resolved,Resolution remarks for ticket 97,Agent 20,Phone,3
+TKT00098,CUST00284,CUST00372,253,Kolkata Main Branch,Account Balance Mismatch,Issue description for ticket 98,2025-11-07,2025-11-25,Critical,Closed,Resolution remarks for ticket 98,Agent 3,Phone,3
+TKT00099,CUST00173,CUST00010,225,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 99,2025-08-07,,High,Open,,Agent 18,In-person,
+TKT00100,CUST00346,CUST00255,,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 100,2025-06-23,,Low,In Progress,,Agent 3,Email,
+TKT00101,CUST00389,CUST00271,,Hyderabad Main Branch,Online Banking Issue,Issue description for ticket 101,2025-01-13,2025-01-27,High,Closed,Resolution remarks for ticket 101,Agent 16,In-person,1
+TKT00102,CUST00042,CUST00101,,Kolkata Main Branch,Account Balance Mismatch,Issue description for ticket 102,2025-01-11,,Medium,Open,,Agent 4,Phone,
+TKT00103,CUST00077,CUST00349,,Kolkata Main Branch,ATM Card Blocked,Issue description for ticket 103,2025-08-10,2025-09-07,Medium,Resolved,Resolution remarks for ticket 103,Agent 10,In-person,4
+TKT00104,CUST00145,CUST00451,,Chennai Main Branch,Online Banking Issue,Issue description for ticket 104,2025-02-02,2025-02-26,High,Resolved,Resolution remarks for ticket 104,Agent 7,Email,2
+TKT00105,CUST00130,CUST00394,,Pune Main Branch,Account Balance Mismatch,Issue description for ticket 105,2025-06-24,2025-07-18,Low,Resolved,Resolution remarks for ticket 105,Agent 7,Phone,2
+TKT00106,CUST00381,CUST00277,,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 106,2024-11-16,2024-12-13,Low,Resolved,Resolution remarks for ticket 106,Agent 17,In-person,2
+TKT00107,CUST00481,CUST00229,164,Bangalore Main Branch,Account Balance Mismatch,Issue description for ticket 107,2025-08-26,2025-09-23,Medium,Closed,Resolution remarks for ticket 107,Agent 5,Phone,1
+TKT00108,CUST00479,CUST00275,,Pune Main Branch,Online Banking Issue,Issue description for ticket 108,2025-01-12,2025-01-30,Critical,Closed,Resolution remarks for ticket 108,Agent 18,Chat,5
+TKT00109,CUST00122,CUST00442,253,Pune Main Branch,Account Balance Mismatch,Issue description for ticket 109,2025-04-06,,Medium,Open,,Agent 1,Phone,
+TKT00110,CUST00139,CUST00267,,Delhi Main Branch,Card Not Working,Issue description for ticket 110,2024-12-08,2024-12-10,Low,Closed,Resolution remarks for ticket 110,Agent 19,Chat,2
+TKT00111,CUST00144,CUST00268,,Chennai Main Branch,EMI Auto-debit Failed,Issue description for ticket 111,2025-07-09,,Medium,Open,,Agent 12,Chat,
+TKT00112,CUST00462,CUST00288,,Bangalore Main Branch,Loan Payment Delay,Issue description for ticket 112,2025-04-12,2025-05-09,Medium,Resolved,Resolution remarks for ticket 112,Agent 11,In-person,3
+TKT00113,CUST00360,CUST00204,,Chennai Main Branch,EMI Auto-debit Failed,Issue description for ticket 113,2025-06-18,,Low,Open,,Agent 15,In-person,
+TKT00114,CUST00319,CUST00392,189,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 114,2025-07-04,2025-07-24,Medium,Closed,Resolution remarks for ticket 114,Agent 16,In-person,3
+TKT00115,CUST00088,CUST00259,262,Kolkata Main Branch,Loan Payment Delay,Issue description for ticket 115,2025-07-19,2025-08-05,Low,Resolved,Resolution remarks for ticket 115,Agent 14,Phone,5
+TKT00116,CUST00206,CUST00205,,Bangalore Main Branch,Loan Payment Delay,Issue description for ticket 116,2025-10-04,,High,Open,,Agent 19,Phone,
+TKT00117,CUST00458,CUST00113,208,Chennai Main Branch,Online Banking Issue,Issue description for ticket 117,2025-08-03,,Medium,Open,,Agent 8,Phone,
+TKT00118,CUST00250,CUST00227,,Delhi Main Branch,Loan Payment Delay,Issue description for ticket 118,2025-04-28,,Critical,Open,,Agent 20,Email,
+TKT00119,CUST00210,CUST00203,213,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 119,2025-03-21,2025-03-23,Critical,Closed,Resolution remarks for ticket 119,Agent 6,Chat,3
+TKT00120,CUST00446,CUST00099,225,Ahmedabad Main Branch,EMI Auto-debit Failed,Issue description for ticket 120,2024-12-09,,Medium,In Progress,,Agent 6,Chat,
+TKT00121,CUST00353,CUST00108,78,Chennai Main Branch,Account Balance Mismatch,Issue description for ticket 121,2025-03-09,2025-03-16,Low,Resolved,Resolution remarks for ticket 121,Agent 3,Email,4
+TKT00122,CUST00499,CUST00240,,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 122,2025-05-18,2025-06-12,High,Closed,Resolution remarks for ticket 122,Agent 20,Chat,3
+TKT00123,CUST00057,CUST00230,,Pune Main Branch,Card Not Working,Issue description for ticket 123,2025-03-31,2025-04-17,High,Resolved,Resolution remarks for ticket 123,Agent 11,Chat,3
+TKT00124,CUST00151,CUST00011,,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 124,2025-08-09,,Critical,Open,,Agent 1,Chat,
+TKT00125,CUST00127,CUST00112,127,Delhi Main Branch,Account Balance Mismatch,Issue description for ticket 125,2025-10-07,2025-10-12,High,Closed,Resolution remarks for ticket 125,Agent 1,Phone,3
+TKT00126,CUST00180,CUST00385,233,Pune Main Branch,EMI Auto-debit Failed,Issue description for ticket 126,2024-12-04,,Low,Open,,Agent 9,Email,
+TKT00127,CUST00099,CUST00500,,Pune Main Branch,EMI Auto-debit Failed,Issue description for ticket 127,2025-01-24,2025-02-17,High,Resolved,Resolution remarks for ticket 127,Agent 12,Chat,5
+TKT00128,CUST00179,CUST00398,282,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 128,2025-03-30,,Medium,In Progress,,Agent 4,Email,
+TKT00129,CUST00360,CUST00310,88,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 129,2024-11-26,2024-12-02,Low,Resolved,Resolution remarks for ticket 129,Agent 7,Chat,3
+TKT00130,CUST00079,CUST00456,,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 130,2025-08-03,,High,In Progress,,Agent 13,In-person,
+TKT00131,CUST00361,CUST00246,220,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 131,2025-09-13,2025-09-20,High,Resolved,Resolution remarks for ticket 131,Agent 17,Email,5
+TKT00132,CUST00360,CUST00348,170,Delhi Main Branch,ATM Card Blocked,Issue description for ticket 132,2025-08-03,2025-08-17,High,Resolved,Resolution remarks for ticket 132,Agent 18,Chat,5
+TKT00133,CUST00211,CUST00346,,Ahmedabad Main Branch,ATM Card Blocked,Issue description for ticket 133,2025-03-11,,Low,In Progress,,Agent 15,Email,
+TKT00134,CUST00108,CUST00336,,Mumbai Main Branch,ATM Card Blocked,Issue description for ticket 134,2025-01-24,2025-01-26,Low,Closed,Resolution remarks for ticket 134,Agent 5,In-person,4
+TKT00135,CUST00362,CUST00241,,Mumbai Main Branch,ATM Card Blocked,Issue description for ticket 135,2025-07-28,2025-08-03,Medium,Resolved,Resolution remarks for ticket 135,Agent 10,Phone,3
+TKT00136,CUST00091,CUST00021,16,Kolkata Main Branch,Card Not Working,Issue description for ticket 136,2025-06-11,,Critical,In Progress,,Agent 7,Chat,
+TKT00137,CUST00382,CUST00317,,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 137,2024-12-09,2025-01-04,Low,Closed,Resolution remarks for ticket 137,Agent 16,Chat,2
+TKT00138,CUST00405,CUST00495,164,Kolkata Main Branch,Loan Payment Delay,Issue description for ticket 138,2025-06-04,,Low,In Progress,,Agent 10,Chat,
+TKT00139,CUST00390,CUST00338,24,Delhi Main Branch,Card Not Working,Issue description for ticket 139,2025-08-01,,Medium,Open,,Agent 18,Phone,
+TKT00140,CUST00188,CUST00213,275,Delhi Main Branch,Loan Payment Delay,Issue description for ticket 140,2025-08-31,2025-09-17,Medium,Resolved,Resolution remarks for ticket 140,Agent 2,Chat,2
+TKT00141,CUST00266,CUST00250,38,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 141,2025-01-16,,Critical,In Progress,,Agent 10,Phone,
+TKT00142,CUST00242,CUST00445,186,Mumbai Main Branch,Card Not Working,Issue description for ticket 142,2025-07-19,2025-08-04,Medium,Resolved,Resolution remarks for ticket 142,Agent 1,Chat,1
+TKT00143,CUST00489,CUST00156,,Kolkata Main Branch,Account Balance Mismatch,Issue description for ticket 143,2025-01-07,,Low,Open,,Agent 1,Chat,
+TKT00144,CUST00426,CUST00176,,Chennai Main Branch,Online Banking Issue,Issue description for ticket 144,2025-06-25,2025-07-24,Medium,Resolved,Resolution remarks for ticket 144,Agent 16,In-person,2
+TKT00145,CUST00227,CUST00321,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 145,2025-05-08,,High,Open,,Agent 1,In-person,
+TKT00146,CUST00091,CUST00428,,Mumbai Main Branch,ATM Card Blocked,Issue description for ticket 146,2024-12-18,,Medium,Open,,Agent 16,Phone,
+TKT00147,CUST00205,CUST00400,176,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 147,2025-08-07,2025-09-02,Critical,Resolved,Resolution remarks for ticket 147,Agent 6,Email,4
+TKT00148,CUST00184,CUST00178,184,Bangalore Main Branch,EMI Auto-debit Failed,Issue description for ticket 148,2024-11-23,2024-12-14,Medium,Resolved,Resolution remarks for ticket 148,Agent 4,Email,1
+TKT00149,CUST00373,CUST00292,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 149,2025-11-07,2025-11-08,Low,Resolved,Resolution remarks for ticket 149,Agent 5,Chat,3
+TKT00150,CUST00453,CUST00267,244,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 150,2025-03-03,,Low,In Progress,,Agent 1,Phone,
+TKT00151,CUST00335,CUST00215,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 151,2025-04-12,2025-05-05,High,Resolved,Resolution remarks for ticket 151,Agent 1,Chat,5
+TKT00152,CUST00047,CUST00421,,Delhi Main Branch,Online Banking Issue,Issue description for ticket 152,2024-12-18,2025-01-09,Critical,Closed,Resolution remarks for ticket 152,Agent 9,Chat,3
+TKT00153,CUST00049,CUST00205,250,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 153,2025-04-30,2025-05-12,Critical,Resolved,Resolution remarks for ticket 153,Agent 2,Email,2
+TKT00154,CUST00271,CUST00268,231,Chennai Main Branch,Card Not Working,Issue description for ticket 154,2025-08-30,2025-09-08,Medium,Resolved,Resolution remarks for ticket 154,Agent 3,Email,3
+TKT00155,CUST00186,CUST00206,22,Mumbai Main Branch,EMI Auto-debit Failed,Issue description for ticket 155,2024-11-26,2024-12-21,High,Closed,Resolution remarks for ticket 155,Agent 15,Chat,2
+TKT00156,CUST00225,CUST00490,,Pune Main Branch,ATM Card Blocked,Issue description for ticket 156,2025-05-15,2025-06-04,Low,Resolved,Resolution remarks for ticket 156,Agent 14,Chat,2
+TKT00157,CUST00150,CUST00119,,Kolkata Main Branch,ATM Card Blocked,Issue description for ticket 157,2025-04-01,2025-04-29,Medium,Resolved,Resolution remarks for ticket 157,Agent 15,Phone,4
+TKT00158,CUST00330,CUST00396,,Mumbai Main Branch,EMI Auto-debit Failed,Issue description for ticket 158,2025-01-15,,High,Open,,Agent 13,Email,
+TKT00159,CUST00345,CUST00093,,Chennai Main Branch,Loan Payment Delay,Issue description for ticket 159,2025-02-24,2025-02-26,Low,Resolved,Resolution remarks for ticket 159,Agent 2,Phone,3
+TKT00160,CUST00344,CUST00350,,Hyderabad Main Branch,Card Not Working,Issue description for ticket 160,2025-06-12,,Critical,Open,,Agent 2,Phone,
+TKT00161,CUST00041,CUST00123,,Mumbai Main Branch,ATM Card Blocked,Issue description for ticket 161,2025-03-05,2025-03-27,Critical,Resolved,Resolution remarks for ticket 161,Agent 14,Phone,5
+TKT00162,CUST00355,CUST00216,122,Kolkata Main Branch,Card Not Working,Issue description for ticket 162,2024-12-11,2024-12-13,Low,Resolved,Resolution remarks for ticket 162,Agent 10,In-person,1
+TKT00163,CUST00348,CUST00215,45,Pune Main Branch,ATM Card Blocked,Issue description for ticket 163,2025-10-09,,High,Open,,Agent 10,Chat,
+TKT00164,CUST00079,CUST00243,,Hyderabad Main Branch,Online Banking Issue,Issue description for ticket 164,2025-07-10,2025-07-18,High,Resolved,Resolution remarks for ticket 164,Agent 4,Phone,5
+TKT00165,CUST00097,CUST00446,,Ahmedabad Main Branch,Online Banking Issue,Issue description for ticket 165,2024-12-16,2025-01-09,High,Resolved,Resolution remarks for ticket 165,Agent 9,In-person,2
+TKT00166,CUST00354,CUST00033,,Pune Main Branch,EMI Auto-debit Failed,Issue description for ticket 166,2025-11-07,2025-11-08,Critical,Resolved,Resolution remarks for ticket 166,Agent 16,Phone,2
+TKT00167,CUST00400,CUST00284,,Mumbai Main Branch,Card Not Working,Issue description for ticket 167,2025-08-28,2025-09-01,High,Closed,Resolution remarks for ticket 167,Agent 20,Email,1
+TKT00168,CUST00354,CUST00077,,Hyderabad Main Branch,ATM Card Blocked,Issue description for ticket 168,2025-10-23,,High,Open,,Agent 16,Email,
+TKT00169,CUST00148,CUST00359,200,Chennai Main Branch,Account Balance Mismatch,Issue description for ticket 169,2025-09-15,2025-09-26,High,Resolved,Resolution remarks for ticket 169,Agent 10,Email,5
+TKT00170,CUST00157,CUST00383,,Chennai Main Branch,Online Banking Issue,Issue description for ticket 170,2025-11-09,2025-11-27,High,Resolved,Resolution remarks for ticket 170,Agent 18,Chat,3
+TKT00171,CUST00304,CUST00361,,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 171,2025-09-10,2025-09-28,Low,Resolved,Resolution remarks for ticket 171,Agent 14,Email,1
+TKT00172,CUST00178,CUST00055,42,Bangalore Main Branch,Card Not Working,Issue description for ticket 172,2025-03-17,2025-03-21,Critical,Closed,Resolution remarks for ticket 172,Agent 4,Phone,5
+TKT00173,CUST00170,CUST00038,259,Chennai Main Branch,Online Banking Issue,Issue description for ticket 173,2025-01-25,2025-02-14,High,Closed,Resolution remarks for ticket 173,Agent 1,Chat,4
+TKT00174,CUST00033,CUST00486,,Chennai Main Branch,Online Banking Issue,Issue description for ticket 174,2025-01-19,2025-01-26,Low,Resolved,Resolution remarks for ticket 174,Agent 14,Chat,2
+TKT00175,CUST00135,CUST00097,294,Delhi Main Branch,Online Banking Issue,Issue description for ticket 175,2025-10-07,2025-10-30,Low,Resolved,Resolution remarks for ticket 175,Agent 5,Phone,2
+TKT00176,CUST00113,CUST00470,,Bangalore Main Branch,ATM Card Blocked,Issue description for ticket 176,2025-10-18,,Critical,Open,,Agent 12,Phone,
+TKT00177,CUST00264,CUST00288,242,Delhi Main Branch,Account Balance Mismatch,Issue description for ticket 177,2025-04-25,2025-05-08,Critical,Closed,Resolution remarks for ticket 177,Agent 17,In-person,1
+TKT00178,CUST00084,CUST00319,189,Chennai Main Branch,Online Banking Issue,Issue description for ticket 178,2025-10-20,2025-11-14,Medium,Closed,Resolution remarks for ticket 178,Agent 6,Chat,5
+TKT00179,CUST00297,CUST00137,,Chennai Main Branch,Card Not Working,Issue description for ticket 179,2025-01-14,,High,In Progress,,Agent 7,Chat,
+TKT00180,CUST00103,CUST00049,229,Bangalore Main Branch,ATM Card Blocked,Issue description for ticket 180,2025-09-13,,Critical,In Progress,,Agent 2,In-person,
+TKT00181,CUST00258,CUST00179,59,Chennai Main Branch,Card Not Working,Issue description for ticket 181,2024-12-15,,High,Open,,Agent 14,In-person,
+TKT00182,CUST00032,CUST00473,,Delhi Main Branch,EMI Auto-debit Failed,Issue description for ticket 182,2025-09-29,2025-10-11,Critical,Closed,Resolution remarks for ticket 182,Agent 1,Chat,1
+TKT00183,CUST00406,CUST00360,112,Delhi Main Branch,Loan Payment Delay,Issue description for ticket 183,2025-06-23,2025-06-26,Low,Resolved,Resolution remarks for ticket 183,Agent 9,Phone,5
+TKT00184,CUST00376,CUST00167,58,Hyderabad Main Branch,Loan Payment Delay,Issue description for ticket 184,2025-06-01,2025-06-25,High,Closed,Resolution remarks for ticket 184,Agent 18,Chat,4
+TKT00185,CUST00022,CUST00020,53,Bangalore Main Branch,EMI Auto-debit Failed,Issue description for ticket 185,2025-04-14,,Low,Open,,Agent 20,In-person,
+TKT00186,CUST00079,CUST00330,233,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 186,2025-10-20,,High,In Progress,,Agent 19,Email,
+TKT00187,CUST00330,CUST00344,217,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 187,2025-02-12,2025-02-28,Low,Closed,Resolution remarks for ticket 187,Agent 1,In-person,5
+TKT00188,CUST00102,CUST00295,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 188,2025-01-01,2025-01-19,Low,Resolved,Resolution remarks for ticket 188,Agent 13,Email,3
+TKT00189,CUST00431,CUST00080,24,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 189,2025-08-01,,High,In Progress,,Agent 1,In-person,
+TKT00190,CUST00409,CUST00432,,Ahmedabad Main Branch,EMI Auto-debit Failed,Issue description for ticket 190,2025-07-17,2025-08-14,Critical,Closed,Resolution remarks for ticket 190,Agent 3,Email,1
+TKT00191,CUST00153,CUST00433,32,Delhi Main Branch,EMI Auto-debit Failed,Issue description for ticket 191,2025-01-19,2025-02-03,Medium,Resolved,Resolution remarks for ticket 191,Agent 7,Email,2
+TKT00192,CUST00418,CUST00118,128,Pune Main Branch,Account Balance Mismatch,Issue description for ticket 192,2024-12-12,,Medium,In Progress,,Agent 9,Chat,
+TKT00193,CUST00060,CUST00273,240,Pune Main Branch,EMI Auto-debit Failed,Issue description for ticket 193,2025-08-05,,High,In Progress,,Agent 1,In-person,
+TKT00194,CUST00438,CUST00285,,Delhi Main Branch,EMI Auto-debit Failed,Issue description for ticket 194,2024-12-08,2025-01-05,Medium,Closed,Resolution remarks for ticket 194,Agent 8,Phone,1
+TKT00195,CUST00108,CUST00310,43,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 195,2025-03-10,2025-04-07,Low,Resolved,Resolution remarks for ticket 195,Agent 12,In-person,4
+TKT00196,CUST00024,CUST00165,,Pune Main Branch,EMI Auto-debit Failed,Issue description for ticket 196,2025-09-19,2025-10-11,Low,Resolved,Resolution remarks for ticket 196,Agent 12,Phone,2
+TKT00197,CUST00174,CUST00318,,Kolkata Main Branch,Card Not Working,Issue description for ticket 197,2025-03-15,2025-03-25,Medium,Closed,Resolution remarks for ticket 197,Agent 19,Phone,2
+TKT00198,CUST00067,CUST00481,,Mumbai Main Branch,ATM Card Blocked,Issue description for ticket 198,2025-06-30,,Medium,In Progress,,Agent 10,Phone,
+TKT00199,CUST00322,CUST00041,53,Hyderabad Main Branch,Loan Payment Delay,Issue description for ticket 199,2025-02-27,2025-03-17,Low,Resolved,Resolution remarks for ticket 199,Agent 12,In-person,2
+TKT00200,CUST00369,CUST00015,,Mumbai Main Branch,ATM Card Blocked,Issue description for ticket 200,2025-08-06,2025-08-23,Low,Resolved,Resolution remarks for ticket 200,Agent 5,In-person,4
+TKT00201,CUST00418,CUST00054,,Pune Main Branch,Card Not Working,Issue description for ticket 201,2025-06-06,2025-06-28,Medium,Closed,Resolution remarks for ticket 201,Agent 17,Chat,2
+TKT00202,CUST00356,CUST00161,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 202,2025-09-21,2025-10-19,High,Resolved,Resolution remarks for ticket 202,Agent 11,Phone,2
+TKT00203,CUST00281,CUST00369,77,Kolkata Main Branch,Account Balance Mismatch,Issue description for ticket 203,2024-12-18,2025-01-14,Critical,Resolved,Resolution remarks for ticket 203,Agent 17,Chat,4
+TKT00204,CUST00116,CUST00219,,Bangalore Main Branch,Loan Payment Delay,Issue description for ticket 204,2025-09-16,2025-09-17,Low,Resolved,Resolution remarks for ticket 204,Agent 9,Phone,2
+TKT00205,CUST00407,CUST00100,,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 205,2025-06-18,2025-07-06,High,Closed,Resolution remarks for ticket 205,Agent 14,Phone,3
+TKT00206,CUST00462,CUST00404,283,Delhi Main Branch,Online Banking Issue,Issue description for ticket 206,2025-02-23,,Medium,Open,,Agent 19,Phone,
+TKT00207,CUST00303,CUST00152,275,Pune Main Branch,ATM Card Blocked,Issue description for ticket 207,2025-11-09,,Critical,Open,,Agent 15,Chat,
+TKT00208,CUST00216,CUST00432,,Delhi Main Branch,Loan Payment Delay,Issue description for ticket 208,2025-10-31,2025-11-05,Low,Resolved,Resolution remarks for ticket 208,Agent 3,Email,3
+TKT00209,CUST00456,CUST00432,,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 209,2025-05-28,2025-06-07,Low,Resolved,Resolution remarks for ticket 209,Agent 15,Email,5
+TKT00210,CUST00445,CUST00425,293,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 210,2025-04-22,2025-05-20,High,Closed,Resolution remarks for ticket 210,Agent 7,Chat,5
+TKT00211,CUST00383,CUST00475,19,Kolkata Main Branch,Online Banking Issue,Issue description for ticket 211,2025-07-30,,Medium,Open,,Agent 3,In-person,
+TKT00212,CUST00370,CUST00362,215,Chennai Main Branch,ATM Card Blocked,Issue description for ticket 212,2025-05-03,2025-05-19,Medium,Resolved,Resolution remarks for ticket 212,Agent 3,In-person,2
+TKT00213,CUST00432,CUST00013,218,Chennai Main Branch,Account Balance Mismatch,Issue description for ticket 213,2025-10-30,2025-11-06,High,Closed,Resolution remarks for ticket 213,Agent 17,Phone,3
+TKT00214,CUST00240,CUST00350,,Chennai Main Branch,EMI Auto-debit Failed,Issue description for ticket 214,2025-01-27,,Medium,In Progress,,Agent 14,Chat,
+TKT00215,CUST00101,CUST00077,70,Bangalore Main Branch,Online Banking Issue,Issue description for ticket 215,2024-12-22,2025-01-03,High,Closed,Resolution remarks for ticket 215,Agent 7,Chat,3
+TKT00216,CUST00285,CUST00499,116,Delhi Main Branch,Loan Payment Delay,Issue description for ticket 216,2025-04-22,,Low,In Progress,,Agent 5,Email,
+TKT00217,CUST00493,CUST00281,184,Mumbai Main Branch,Online Banking Issue,Issue description for ticket 217,2025-02-27,2025-03-25,Medium,Closed,Resolution remarks for ticket 217,Agent 1,Chat,5
+TKT00218,CUST00482,CUST00049,137,Pune Main Branch,EMI Auto-debit Failed,Issue description for ticket 218,2024-11-13,2024-11-20,High,Closed,Resolution remarks for ticket 218,Agent 3,Email,3
+TKT00219,CUST00392,CUST00250,289,Mumbai Main Branch,Account Balance Mismatch,Issue description for ticket 219,2025-06-25,2025-06-28,Medium,Resolved,Resolution remarks for ticket 219,Agent 11,In-person,2
+TKT00220,CUST00235,CUST00427,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 220,2025-10-23,2025-11-09,Critical,Closed,Resolution remarks for ticket 220,Agent 2,Email,1
+TKT00221,CUST00378,CUST00292,259,Mumbai Main Branch,EMI Auto-debit Failed,Issue description for ticket 221,2025-01-26,2025-02-06,Medium,Closed,Resolution remarks for ticket 221,Agent 4,Chat,5
+TKT00222,CUST00261,CUST00485,,Ahmedabad Main Branch,Online Banking Issue,Issue description for ticket 222,2025-04-06,2025-04-10,High,Closed,Resolution remarks for ticket 222,Agent 6,In-person,2
+TKT00223,CUST00292,CUST00085,246,Delhi Main Branch,Loan Payment Delay,Issue description for ticket 223,2024-12-11,,Low,Open,,Agent 11,Chat,
+TKT00224,CUST00314,CUST00390,253,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 224,2025-01-24,2025-02-21,Critical,Resolved,Resolution remarks for ticket 224,Agent 6,Email,3
+TKT00225,CUST00141,CUST00490,,Kolkata Main Branch,Account Balance Mismatch,Issue description for ticket 225,2024-11-24,,High,In Progress,,Agent 12,In-person,
+TKT00226,CUST00140,CUST00015,156,Delhi Main Branch,EMI Auto-debit Failed,Issue description for ticket 226,2025-05-06,2025-06-02,High,Resolved,Resolution remarks for ticket 226,Agent 3,Email,4
+TKT00227,CUST00440,CUST00091,,Pune Main Branch,Loan Payment Delay,Issue description for ticket 227,2025-02-09,2025-02-26,Low,Closed,Resolution remarks for ticket 227,Agent 10,Email,5
+TKT00228,CUST00383,CUST00158,63,Chennai Main Branch,Card Not Working,Issue description for ticket 228,2025-08-15,,Critical,In Progress,,Agent 19,Chat,
+TKT00229,CUST00484,CUST00399,,Ahmedabad Main Branch,Online Banking Issue,Issue description for ticket 229,2025-08-08,2025-08-15,Medium,Closed,Resolution remarks for ticket 229,Agent 13,Email,5
+TKT00230,CUST00207,CUST00141,,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 230,2025-09-07,2025-10-06,Critical,Resolved,Resolution remarks for ticket 230,Agent 13,Phone,5
+TKT00231,CUST00016,CUST00412,221,Ahmedabad Main Branch,Account Balance Mismatch,Issue description for ticket 231,2025-06-12,,Critical,In Progress,,Agent 12,Phone,
+TKT00232,CUST00348,CUST00457,98,Mumbai Main Branch,EMI Auto-debit Failed,Issue description for ticket 232,2025-06-05,2025-06-21,Critical,Closed,Resolution remarks for ticket 232,Agent 16,In-person,4
+TKT00233,CUST00069,CUST00497,265,Bangalore Main Branch,EMI Auto-debit Failed,Issue description for ticket 233,2025-02-18,2025-02-26,High,Resolved,Resolution remarks for ticket 233,Agent 7,In-person,1
+TKT00234,CUST00219,CUST00067,,Kolkata Main Branch,ATM Card Blocked,Issue description for ticket 234,2025-01-13,2025-02-07,Medium,Resolved,Resolution remarks for ticket 234,Agent 1,Email,3
+TKT00235,CUST00389,CUST00314,,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 235,2024-12-08,,Medium,Open,,Agent 5,Phone,
+TKT00236,CUST00494,CUST00461,249,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 236,2025-04-19,2025-05-04,Low,Resolved,Resolution remarks for ticket 236,Agent 11,Chat,1
+TKT00237,CUST00047,CUST00310,35,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 237,2024-11-19,2024-11-20,High,Closed,Resolution remarks for ticket 237,Agent 12,Phone,3
+TKT00238,CUST00238,CUST00346,,Chennai Main Branch,Card Not Working,Issue description for ticket 238,2025-01-18,,Medium,Open,,Agent 19,Email,
+TKT00239,CUST00028,CUST00473,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 239,2025-04-02,2025-04-19,High,Closed,Resolution remarks for ticket 239,Agent 19,Email,4
+TKT00240,CUST00400,CUST00250,173,Ahmedabad Main Branch,Loan Payment Delay,Issue description for ticket 240,2025-10-31,2025-11-23,Critical,Resolved,Resolution remarks for ticket 240,Agent 2,Email,3
+TKT00241,CUST00371,CUST00126,,Hyderabad Main Branch,Account Balance Mismatch,Issue description for ticket 241,2024-11-28,2024-12-04,Critical,Closed,Resolution remarks for ticket 241,Agent 11,Phone,5
+TKT00242,CUST00346,CUST00374,253,Ahmedabad Main Branch,ATM Card Blocked,Issue description for ticket 242,2024-11-30,2024-12-24,Low,Resolved,Resolution remarks for ticket 242,Agent 2,Phone,5
+TKT00243,CUST00161,CUST00345,,Ahmedabad Main Branch,Card Not Working,Issue description for ticket 243,2025-02-12,2025-03-05,Medium,Closed,Resolution remarks for ticket 243,Agent 8,Phone,3
+TKT00244,CUST00324,CUST00367,116,Kolkata Main Branch,EMI Auto-debit Failed,Issue description for ticket 244,2025-09-12,2025-09-28,Medium,Closed,Resolution remarks for ticket 244,Agent 20,Email,2
+TKT00245,CUST00344,CUST00437,161,Mumbai Main Branch,Online Banking Issue,Issue description for ticket 245,2025-07-07,2025-07-09,Low,Closed,Resolution remarks for ticket 245,Agent 1,Chat,5
+TKT00246,CUST00178,CUST00179,78,Mumbai Main Branch,EMI Auto-debit Failed,Issue description for ticket 246,2025-04-05,2025-04-06,High,Resolved,Resolution remarks for ticket 246,Agent 19,Chat,1
+TKT00247,CUST00481,CUST00077,258,Mumbai Main Branch,Online Banking Issue,Issue description for ticket 247,2025-01-03,,Critical,In Progress,,Agent 8,In-person,
+TKT00248,CUST00408,CUST00383,87,Chennai Main Branch,Card Not Working,Issue description for ticket 248,2025-08-01,2025-08-17,Low,Resolved,Resolution remarks for ticket 248,Agent 3,Phone,4
+TKT00249,CUST00112,CUST00250,84,Bangalore Main Branch,ATM Card Blocked,Issue description for ticket 249,2025-05-18,2025-05-26,Medium,Resolved,Resolution remarks for ticket 249,Agent 7,In-person,4
+TKT00250,CUST00052,CUST00230,164,Bangalore Main Branch,Card Not Working,Issue description for ticket 250,2025-08-05,2025-08-12,Medium,Closed,Resolution remarks for ticket 250,Agent 11,In-person,5

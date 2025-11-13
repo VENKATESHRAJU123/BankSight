@@ -1,0 +1,82 @@
+[
+  {
+    "Branch_ID": 1,
+    "Branch_Name": "Mumbai Main Branch",
+    "City": "Mumbai",
+    "Manager_Name": "Manager 1",
+    "Total_Employees": 15,
+    "Branch_Revenue": 5926808.06,
+    "Opening_Date": "2021-05-31",
+    "Performance_Rating": 3
+  },
+  {
+    "Branch_ID": 2,
+    "Branch_Name": "Delhi Main Branch",
+    "City": "Delhi",
+    "Manager_Name": "Manager 2",
+    "Total_Employees": 43,
+    "Branch_Revenue": 6362522.89,
+    "Opening_Date": "2019-02-03",
+    "Performance_Rating": 4
+  },
+  {
+    "Branch_ID": 3,
+    "Branch_Name": "Bangalore Main Branch",
+    "City": "Bangalore",
+    "Manager_Name": "Manager 3",
+    "Total_Employees": 30,
+    "Branch_Revenue": 7078047.14,
+    "Opening_Date": "2022-07-10",
+    "Performance_Rating": 4
+  },
+  {
+    "Branch_ID": 4,
+    "Branch_Name": "Hyderabad Main Branch",
+    "City": "Hyderabad",
+    "Manager_Name": "Manager 4",
+    "Total_Employees": 19,
+    "Branch_Revenue": 15673136.79,
+    "Opening_Date": "2019-04-29",
+    "Performance_Rating": 3
+  },
+  {
+    "Branch_ID": 5,
+    "Branch_Name": "Chennai Main Branch",
+    "City": "Chennai",
+    "Manager_Name": "Manager 5",
+    "Total_Employees": 30,
+    "Branch_Revenue": 16658614.77,
+    "Opening_Date": "2023-03-02",
+    "Performance_Rating": 5
+  },
+  {
+    "Branch_ID": 6,
+    "Branch_Name": "Kolkata Main Branch",
+    "City": "Kolkata",
+    "Manager_Name": "Manager 6",
+    "Total_Employees": 30,
+    "Branch_Revenue": 10346753.78,
+    "Opening_Date": "2021-04-04",
+    "Performance_Rating": 4
+  },
+  {
+    "Branch_ID": 7,
+    "Branch_Name": "Pune Main Branch",
+    "City": "Pune",
+    "Manager_Name": "Manager 7",
+    "Total_Employees": 19,
+    "Branch_Revenue": 15263368.89,
+    "Opening_Date": "2018-04-14",
+    "Performance_Rating": 5
+  },
+  {
+    "Branch_ID": 8,
+    "Branch_Name": "Ahmedabad Main Branch",
+    "City": "Ahmedabad",
+    "Manager_Name": "Manager 8",
+    "Total_Employees": 35,
+    "Branch_Revenue": 17824602.95,
+    "Opening_Date": "2019-09-10",
+    "Performance_Rating": 4
+  }
+]
